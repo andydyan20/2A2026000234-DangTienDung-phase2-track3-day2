@@ -1,0 +1,38 @@
+[
+    {
+        "summary": "A conversation where a user asks for clarification on their question, but the details are not provided.",
+        "outcome": "The assistant responds by asking for more information to ensure accuracy in answering the user's question."
+    },
+    {
+        "summary": "Người dùng đang yêu cầu thêm thông tin về câu hỏi số 2 của họ.",
+        "outcome": ""
+    },
+    {
+        "summary": "Conversation between User and Assistant about clarifying a previous question",
+        "outcome": "Clarification provided on question #2"
+    },
+    {
+        "summary": "Người dùng yêu cầu thêm thông tin về câu hỏi số 4",
+        "outcome": "Assistant đề nghị kiểm tra EPISODIC MEMORY để xem liệu có bất kỳ cuộc trò chuyện trước đây nào liên quan đến câu hỏi này hay không"
+    },
+    {
+        "summary": "A conversation between a user and an assistant where the user asks for help with unspoken questions",
+        "outcome": "The assistant offers to clarify the user's queries"
+    },
+    {
+        "summary": "User asks for help with missing numbers in a sequence",
+        "outcome": "Assistant requests additional information about the missed questions"
+    },
+    {
+        "summary": "A conversation about forgetting a number occurred. The user asked for assistance in recalling specific information.",
+        "outcome": "The assistant provided help and assisted in recalling the forgotten information."
+    },
+    {
+        "summary": "User forgotten to answer questions 3-6, assistant provided help",
+        "outcome": "assistant offered support to user"
+    },
+    {
+        "summary": "User added a new element to the list, but mistakenly claimed it was the 10th element.",
+        "outcome": "Assistant corrected the user about the non-existent element and asked if they wanted to add more information or change topic."
+    }
+]
